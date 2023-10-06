@@ -3,3 +3,5 @@ add
 commit
 remote 
 push
+
+second commit in master

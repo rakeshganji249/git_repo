@@ -4,13 +4,20 @@ commit
 remote 
 push
 
+<<<<<<< HEAD
 <<<<<<< Updated upstream
 third commit in submain
 =======
+=======
+>>>>>>> 8e734966d217f0dc18eb4f49e713489de1660a4e
 
 third commit in master
 
 Fourth commit in master
 
+<<<<<<< HEAD
 Fifth commit in master to stash
 >>>>>>> Stashed changes
+=======
+sub branch commit
+>>>>>>> 8e734966d217f0dc18eb4f49e713489de1660a4e

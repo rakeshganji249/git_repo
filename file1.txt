@@ -4,6 +4,7 @@ commit
 remote 
 push
 
+push conflict
 
 third commit in master
 
